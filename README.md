@@ -1,6 +1,7 @@
 v.1.0
 
 # Rotagen 
+![alt text](https://repository-images.githubusercontent.com/839893011/f2262a0f-482d-47b1-9bd3-2d48a9a5d91a)
 ### Summary...
 
 Rotagen will create a rota to determine who is going to be working on any given day between specified dates conforming to preset criteria.
