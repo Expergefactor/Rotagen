@@ -1,4 +1,4 @@
-v.0.1 initial commit. 
+v.1.0 initial commit. 
 
 # Rotagen
 
